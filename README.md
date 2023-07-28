@@ -10,3 +10,9 @@ npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion
 npm run dev
 // http://localhost:3000/ should show up
 ```
+
+Install builder 
+
+```
+npm install "@builder.io/react"
+```
